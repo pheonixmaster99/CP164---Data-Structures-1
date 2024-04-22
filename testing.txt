@@ -1,0 +1,475 @@
+"""
+-------------------------------------------------------
+Assignment Testing
+-------------------------------------------------------
+Author: Khamosh Mehta
+ID: 169088625
+Email: meht8625@mylaurier.ca
+Version: 2024-03-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+task1
+0 Canadian
+1 Chinese
+2 Indian
+3 Ethiopian
+4 Mexican
+5 Greek
+6 Japanese
+7 Italian
+8 American
+9 Scottish
+10 New Zealand
+11 English
+-------------------------------------------------------
+-------------------------------------------------------
+task2
+Name: Ravioli             
+Origin: Italian             
+Vegetarian: False     
+Calories: 246     
+-------------------------------------------------------
+-------------------------------------------------------
+task3
+-------------------------------------------------------
+# Input Format
+Name: Ravioli
+Origin
+0 Canadian
+1 Chinese
+2 Indian
+3 Ethiopian
+4 Mexican
+5 Greek
+6 Japanese
+7 Italian
+8 American
+9 Scottish
+10 New Zealand
+11 English : 7
+Vegetarian (Y/N): N
+Calories: 246
+
+# Output Format
+Name:       Ravioli
+Origin:     7
+Vegetarian: False
+Calories:   246
+-------------------------------------------------------
+task4
+-------------------------------------------------------
+Name:   Spanakopita
+Origin:     5
+Vegetarian:  True
+Calories:   260
+
+-------------------------------------------------------
+task5
+-------------------------------------------------------
+Name:       Lasagna
+Origin:     7
+Vegetarian: False
+Calories:   135
+
+Name: Butter Chicken
+Origin:     2
+Vegetarian: False
+Calories:   490
+
+Name: Moo Goo Guy Pan
+Origin:     1
+Vegetarian: False
+Calories:   272
+
+Name: Vegetable Alicha
+Origin:     3
+Vegetarian:  True
+Calories:   138
+
+Name:   Spanakopita
+Origin:     5
+Vegetarian:  True
+Calories:   260
+
+Name:  Chirashi Don
+Origin:     6
+Vegetarian: False
+Calories:   600
+
+Name: Canuck Burger
+Origin:     0
+Vegetarian: False
+Calories:  7500
+
+Name:     Turducken
+Origin:     8
+Vegetarian: False
+Calories: 12240
+
+Name: Shark Fin Soup
+Origin:     1
+Vegetarian: False
+Calories:    46
+
+Name:       Chamuco
+Origin:     4
+Vegetarian:  True
+Calories:   150
+
+Name:         Natto
+Origin:     6
+Vegetarian:  True
+Calories:   212
+
+Name: Canada Goose Chili
+Origin:     0
+Vegetarian: False
+Calories:   199
+
+Name: Diet Free-Range Gluten-free Water
+Origin:     8
+Vegetarian:  True
+Calories:     0
+
+Name: Kung Pao Chicken
+Origin:     1
+Vegetarian: False
+Calories:   229
+
+Name: General Tao Chicken
+Origin:     1
+Vegetarian: False
+Calories:   850
+
+Name: Spicy Vegetable Moo Shu
+Origin:     1
+Vegetarian:  True
+Calories:   140
+
+Name:      BBQ Pork
+Origin:     1
+Vegetarian: False
+Calories:   920
+
+Name: Orange Chicken
+Origin:     1
+Vegetarian: False
+Calories:   800
+
+Name: Vegetables with Cashew Nuts
+Origin:     1
+Vegetarian:  True
+Calories:   143
+
+Name: Lemon Chicken
+Origin:     1
+Vegetarian: False
+Calories:   226
+
+Name: Beef with Green Pepper
+Origin:     1
+Vegetarian: False
+Calories:   251
+
+Name: Sweet and Sour Pork
+Origin:     1
+Vegetarian: False
+Calories:   231
+
+Name: Szechuan Shrimp
+Origin:     1
+Vegetarian: False
+Calories:   516
+
+Name:       Poutine
+Origin:     0
+Vegetarian: False
+Calories:   710
+
+Name:    Teppanyaki
+Origin:     6
+Vegetarian: False
+Calories:   200
+
+Name:   Greek Salad
+Origin:     5
+Vegetarian:  True
+Calories:   185
+
+Name:    Fettuccine
+Origin:     7
+Vegetarian: False
+Calories:   266
+
+Name:      Teriyaki
+Origin:     6
+Vegetarian: False
+Calories:   233
+
+Name:   Shortbread 
+Origin:     9
+Vegetarian:  True
+Calories:   502
+
+Name:       Pavlova
+Origin:    10
+Vegetarian:  True
+Calories:   272
+
+Name: Hokey Pokey Ice Cream
+Origin:    10
+Vegetarian:  True
+Calories:   106
+
+Name:        Fricot
+Origin:     0
+Vegetarian: False
+Calories:   360
+
+Name:    Chip Butty
+Origin:    11
+Vegetarian:  True
+Calories:   956
+
+Name: Grilled Salmon
+Origin:     0
+Vegetarian: False
+Calories:   511
+
+Name:       Ravioli
+Origin:     7
+Vegetarian: False
+Calories:   246
+
+Name:         Crepe
+Origin:     7
+Vegetarian:  True
+Calories:   186
+
+Name:    Fried Rice
+Origin:     1
+Vegetarian: False
+Calories:   425
+
+Name: Pepperoni Pizza
+Origin:     7
+Vegetarian: False
+Calories:   713
+
+Name: Chicken Kabob
+Origin:     2
+Vegetarian: False
+Calories:   167
+
+Name:    Panzerotti
+Origin:     7
+Vegetarian: False
+Calories:   770
+
+Name:  Spring Rolls
+Origin:     1
+Vegetarian:  True
+Calories:   200
+
+Name: Chicken Chow Mein
+Origin:     1
+Vegetarian: False
+Calories:   178
+
+Name: Chicken Wings
+Origin:     8
+Vegetarian: False
+Calories:   298
+-------------------------------------------------------
+task6
+-------------------------------------------------------
+Lasagna|7|False|135
+Butter Chicken|2|False|490
+Moo Goo Guy Pan|1|False|272
+Vegetable Alicha|3|True|138
+Spanakopita|5|True|260
+Chirashi Don|6|False|600
+Canuck Burger|0|False|7500
+Turducken|8|False|12240
+Shark Fin Soup|1|False|46
+Chamuco|4|True|150
+Natto|6|True|212
+Canada Goose Chili|0|False|199
+Diet Free-Range Gluten-free Water|8|True|0
+Kung Pao Chicken|1|False|229
+General Tao Chicken|1|False|850
+Spicy Vegetable Moo Shu|1|True|140
+BBQ Pork|1|False|920
+Orange Chicken|1|False|800
+Vegetables with Cashew Nuts|1|True|143
+Lemon Chicken|1|False|226
+Beef with Green Pepper|1|False|251
+Sweet and Sour Pork|1|False|231
+Szechuan Shrimp|1|False|516
+Poutine|0|False|710
+Teppanyaki|6|False|200
+Greek Salad|5|True|185
+Fettuccine|7|False|266
+Teriyaki|6|False|233
+Shortbread |9|True|502
+Pavlova|10|True|272
+Hokey Pokey Ice Cream|10|True|106
+Fricot|0|False|360
+Chip Butty|11|True|956
+Grilled Salmon|0|False|511
+Ravioli|7|False|246
+Crepe|7|True|186
+Fried Rice|1|False|425
+Pepperoni Pizza|7|False|713
+Chicken Kabob|2|False|167
+Panzerotti|7|False|770
+Spring Rolls|1|True|200
+Chicken Chow Mein|1|False|178
+Chicken Wings|8|False|298
+-------------------------------------------------------
+task7
+-------------------------------------------------------
+# Origin = 2
+Name: Butter Chicken
+Origin:     2
+Vegetarian: False
+Calories:   490
+
+Name: Chicken Kabob
+Origin:     2
+Vegetarian: False
+Calories:   167
+
+#Origin = 1
+Name: Moo Goo Guy Pan
+Origin:     1
+Vegetarian: False
+Calories:   272
+
+Name: Shark Fin Soup
+Origin:     1
+Vegetarian: False
+Calories:    46
+
+Name: Kung Pao Chicken
+Origin:     1
+Vegetarian: False
+Calories:   229
+
+Name: General Tao Chicken
+Origin:     1
+Vegetarian: False
+Calories:   850
+
+Name: Spicy Vegetable Moo Shu
+Origin:     1
+Vegetarian:  True
+Calories:   140
+
+Name:      BBQ Pork
+Origin:     1
+Vegetarian: False
+Calories:   920
+
+Name: Orange Chicken
+Origin:     1
+Vegetarian: False
+Calories:   800
+
+Name: Vegetables with Cashew Nuts
+Origin:     1
+Vegetarian:  True
+Calories:   143
+
+Name: Lemon Chicken
+Origin:     1
+Vegetarian: False
+Calories:   226
+
+Name: Beef with Green Pepper
+Origin:     1
+Vegetarian: False
+Calories:   251
+
+Name: Sweet and Sour Pork
+Origin:     1
+Vegetarian: False
+Calories:   231
+
+Name: Szechuan Shrimp
+Origin:     1
+Vegetarian: False
+Calories:   516
+
+Name:    Fried Rice
+Origin:     1
+Vegetarian: False
+Calories:   425
+
+Name:  Spring Rolls
+Origin:     1
+Vegetarian:  True
+Calories:   200
+
+Name: Chicken Chow Mein
+Origin:     1
+Vegetarian: False
+Calories:   178
+-------------------------------------------------------
+task8
+-------------------------------------------------------
+The average calories of the list of foods is  791.44
+-------------------------------------------------------
+task9
+-------------------------------------------------------
+
+Name                                     Origin          Vegetarian      Calories  
+---------------------------------------- --------------- --------------- ----------
+BBQ Pork                                 Chinese         False           920       
+Beef with Green Pepper                   Chinese         False           251       
+Butter Chicken                           Indian          False           490       
+Canada Goose Chili                       Canadian        False           199       
+Canuck Burger                            Canadian        False           7500      
+Chamuco                                  Mexican         True            150       
+Chicken Chow Mein                        Chinese         False           178       
+Chicken Kabob                            Indian          False           167       
+Chicken Wings                            American        False           298       
+Chip Butty                               English         True            956       
+Chirashi Don                             Japanese        False           600       
+Crepe                                    Italian         True            186       
+Diet Free-Range Gluten-free Water        American        True            0         
+Fettuccine                               Italian         False           266       
+Fricot                                   Canadian        False           360       
+Fried Rice                               Chinese         False           425       
+General Tao Chicken                      Chinese         False           850       
+Greek Salad                              Greek           True            185       
+Grilled Salmon                           Canadian        False           511       
+Hokey Pokey Ice Cream                    New Zealand     True            106       
+Kung Pao Chicken                         Chinese         False           229       
+Lasagna                                  Italian         False           135       
+Lemon Chicken                            Chinese         False           226       
+Moo Goo Guy Pan                          Chinese         False           272       
+Natto                                    Japanese        True            212       
+Orange Chicken                           Chinese         False           800       
+Panzerotti                               Italian         False           770       
+Pavlova                                  New Zealand     True            272       
+Pepperoni Pizza                          Italian         False           713       
+Poutine                                  Canadian        False           710       
+Ravioli                                  Italian         False           246       
+Shark Fin Soup                           Chinese         False           46        
+Shortbread                               Scottish        True            502       
+Spanakopita                              Greek           True            260       
+Spicy Vegetable Moo Shu                  Chinese         True            140       
+Spring Rolls                             Chinese         True            200       
+Sweet and Sour Pork                      Chinese         False           231       
+Szechuan Shrimp                          Chinese         False           516       
+Teppanyaki                               Japanese        False           200       
+Teriyaki                                 Japanese        False           233       
+Turducken                                American        False           12240     
+Vegetable Alicha                         Ethiopian       True            138       
+Vegetables with Cashew Nuts              Chinese         True            143       
+
+-------------------------------------------------------
+
+
